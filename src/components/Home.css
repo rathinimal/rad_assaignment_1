@@ -1,0 +1,31 @@
+.wel{
+    width: 50%;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+.wel h1{
+    padding-left: 150px;
+}
+
+
+.wel p{
+    padding-left: 100px;
+}
+
+.wel Button{
+   margin-left: 500px;
+}
+
+.name{
+    display: flex;
+    flex-direction: column;
+    padding:25px;
+    border-radius: 8px;
+    gap:25px;
+}
+
+.name input{
+    padding: 10px;
+    border: none;
+}

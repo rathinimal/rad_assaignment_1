@@ -1,0 +1,15 @@
+.about{
+    width: 30%;
+    padding: 20px;
+    border-radius: 30px;
+    font-size: 20px
+}
+
+.about h1{
+    padding-left: 100px;
+}
+
+
+.about h2{
+    padding-left: 110px;
+}
